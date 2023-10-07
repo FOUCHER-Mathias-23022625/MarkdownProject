@@ -4,11 +4,13 @@ L'endroit de rêve pour les accros à la Monster !
 En lisant cet article, vous allez découvrir tous les mystères et les malédictions que provoquent la Monster.
 
 ## Panneau informatif
-![Image]([https://ibb.co/SJSJFP5](https://github.com/FOUCHER-Mathias-23022625/MarkdownProject/blob/main/maxresdefault%20(1).jpg))
-
-Exemple typique d'un baka qui collectionne les monstres (il doit être vraiment puissant vu le nombre qu'il en a).
-
-### Informations générales
+| La Monster | 
+|![Image](https://github.com/FOUCHER-Mathias-23022625/MarkdownProject/blob/main/maxresdefault%20(1).jpg)|
+| Exemple typique d'un baka qui collectionne les monstres (il doit être vraiment puissant vu le nombre qu'il en a).|
+| ------------- |
+| col 3 is      |
+| col 2 is      |
+| zebra stripes |
 - **Type**: Boisson de baka gamer qui prétend performer devant des animes et sur des jeux vidéo. (C'est absolument faux, ça ne booste rien du tout, mais ça a un petit goût sympa, donc ça s'achète.)
 - **Effets**: Fait semblant de donner de l'énergie et de faire battre le cœur plus fort alors que tu pars juste en excès de sucre et de caféine.
   - +10 rapidité
