@@ -17,7 +17,7 @@ Exemple typique d'un baka qui collectionne les monstres (il doit être vraiment 
 |- **Coût d'achat**: Ils doivent le faire produire par de petits Chinois pour 10 centimes.|
 
 |- **Coût de revente**: 2 euros, VOIR 3 (oui, ça casse les fesses).|
-
+|---|
 
 ## Histoire
 En 2007, Hansen Natural Corporation a dévoilé un accord de distribution avec PepsiCo Canada.
