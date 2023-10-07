@@ -3,10 +3,9 @@ L'endroit de rêve pour les accros à la Monster !
 
 En lisant cet article, vous allez découvrir tous les mystères et les malédictions que provoquent la Monster.
 
-## Panneau informatif
-| La Monster | 
-|![Image](https://github.com/FOUCHER-Mathias-23022625/MarkdownProject/blob/main/maxresdefault%20(1).jpg)|
-| Exemple typique d'un baka qui collectionne les monstres (il doit être vraiment puissant vu le nombre qu'il en a).|
+## La Monster  
+![Image](https://github.com/FOUCHER-Mathias-23022625/MarkdownProject/blob/main/maxresdefault%20(1).jpg)
+Exemple typique d'un baka qui collectionne les monstres (il doit être vraiment puissant vu le nombre qu'il en a).
 | ------------- |
 | col 3 is      |
 | col 2 is      |
