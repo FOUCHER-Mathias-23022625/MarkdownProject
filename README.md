@@ -9,15 +9,15 @@ En lisant cet article, vous allez découvrir tous les mystères et les malédict
 Exemple typique d'un baka qui collectionne les monstres (il doit être vraiment puissant vu le nombre qu'il en a).
 
 |- Type: Boisson de baka gamer qui prétend performer devant des animes et sur des jeux vidéo. (C'est absolument faux, ça ne booste rien du tout, mais ça a un petit goût sympa, donc ça s'achète.)|
-
+|--- |
 |- Effets: Fait semblant de donner de l'énergie et de faire battre le cœur plus fort alors que tu pars juste en excès de sucre et de caféine. +10 rapidité +10 réflexes|
-
+|--- |
 | - **Origine**: Monster Energy (ou simplement appelé Monster) est une boisson énergisante qui a été lancée par Hansen Natural en 2002. Le logo représente une griffure triple. La gamme comporte des boissons énergisantes aux divers arômes fruités et des boissons gazeuses à base de thé, de jus de fruits et de taurine. |
-
+|--- |
 |- **Coût d'achat**: Ils doivent le faire produire par de petits Chinois pour 10 centimes.|
-
+|--- |
 |- **Coût de revente**: 2 euros, VOIR 3 (oui, ça casse les fesses).|
-|---|
+|--- |
 
 ## Histoire
 En 2007, Hansen Natural Corporation a dévoilé un accord de distribution avec PepsiCo Canada.
