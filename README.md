@@ -25,3 +25,4 @@ En 2007, Hansen Natural Corporation a dévoilé un accord de distribution avec P
 ## Réputation
 Malgré le fait que la Monster soit la meilleure boisson du monde ([selon ce graphique](https://ibb.co/QPm2Xth)), elle est cependant consommée et associée à une communauté de personnes : les "E-girls" ainsi que les "Emo Boys". Cela nuit fortement à l'image de la boisson et limite sa consommation à seulement un groupe, car d'autres consommateurs potentiels n'en achèteront pas de peur d'être associés à cette communauté.
 
+>[!VIDEO]([https://video.tv.adobe.com/v/29770/?quality=12](https://www.youtube.com/watch?v=tws2UdWVnFY)https://www.youtube.com/watch?v=tws2UdWVnFY)
