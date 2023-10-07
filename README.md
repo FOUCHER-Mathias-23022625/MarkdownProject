@@ -38,6 +38,6 @@ Malgré le fait que la Monster soit la meilleure boisson du monde ([selon ce gra
 ## Malédiction :
 Selon des légendes urbaines, La Monster serait la Boisson du diable, beaucoup de théories on été faites et certaines sont très tirés par les cheveux et parties chercher extrêmement loin jusqu'à lier cette boisson avec le diable ( issou ).
 
->[!VIDEO](https://www.youtube.com/watch?v=tws2UdWVnFY)
+[!VIDEO](https://www.youtube.com/watch?v=tws2UdWVnFY)
 
 Bien évidement toute ces théories sont fausses et n'ont aucun connecteurs logiques
