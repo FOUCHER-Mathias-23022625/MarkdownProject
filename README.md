@@ -22,5 +22,8 @@ En 2007, Hansen Natural Corporation a dévoilé un accord de distribution avec P
 
 À partir de janvier 2009, cette même entreprise a également annoncé un contrat de distribution avec Coca-Cola Bottling Company. Plus tard, en août 2014, Coca-Cola a acquis une participation de 16,7 % dans Monster Beverage Corporation, qui commercialise notamment la boisson Monster Energy, pour un montant de 2,15 milliards de dollars (ça en fait de l'argent, hein).
 
+
 ### Réputation
-Malgré le fait que la Monster soit la meilleure boisson du monde (selon ce graphique : (https://ibb.co/QPm2Xth)), elle est cependant consommée et associée à une communauté de personnes : les "E-girls" ainsi que les "Emo Boys". Cela nuit fortement à l'image de la boisson et limite sa consommation à seulement un groupe, car d'autres consommateurs potentiels n'en achèteront pas de peur d'être associés à cette communauté.
+Malgré le fait que la Monster soit la meilleure boisson du monde ([selon ce graphique](https://ibb.co/QPm2Xth)), elle est cependant consommée et associée à une communauté de personnes : les "E-girls" ainsi que les "Emo Boys". Cela nuit fortement à l'image de la boisson et limite sa consommation à seulement un groupe, car d'autres consommateurs potentiels n'en achèteront pas de peur d'être associés à cette communauté.
+
+![Graphique](https://ibb.co/QPm2Xth),
